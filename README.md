@@ -12,7 +12,7 @@ cd ReDBackeD1
 
 ls
 
-nano ReDBackeD1
+nano ReDBackeD1.txt
 
 
 Paste = PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;98m[@ReD-BackeD]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;93m'
